@@ -1,2 +1,2 @@
-# _JS50.3-rotating-navigation
-# Rotating Navigation Bar
+# _JS50.5-blurry-loading
+# Loading an blurry image 
